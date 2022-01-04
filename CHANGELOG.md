@@ -1,3 +1,8 @@
+## [1.0.1+1] - January 3rd, 2022
+
+* Dart 2.15
+
+
 ## [1.0.1] - December 8th, 2021
 
 * Rename tools
