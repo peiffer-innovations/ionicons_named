@@ -1,3 +1,8 @@
+## [1.0.1+2] - February 6th, 2022
+
+* GH Workflow update
+
+
 ## [1.0.1+1] - January 9th, 2022
 
 * Dart 2.15
