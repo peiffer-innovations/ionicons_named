@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [ionicons_named](#ionicons_named)
+  - [Table of Contents](#table-of-contents)
+  - [Live Example](#live-example)
+  - [Introduction](#introduction)
+  - [Usage](#usage)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # ionicons_named
 
 ## Table of Contents
