@@ -1,3 +1,8 @@
+## [1.2.0] - August 2nd, 2022
+
+* Fix for generator with `ionicons` v0.2.0+
+
+
 ## [1.0.1+3] - August 2, 2022
 
 * Automated dependency updates

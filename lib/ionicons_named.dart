@@ -461,6 +461,8 @@ const ionicons = {
   'ellipse_sharp': Ionicons.ellipse_sharp,
   'ellipsis_horizontal': Ionicons.ellipsis_horizontal,
   'ellipsis_horizontal_circle': Ionicons.ellipsis_horizontal_circle,
+  'ellipsis_horizontal_circle_outline':
+      Ionicons.ellipsis_horizontal_circle_outline,
   'ellipsis_horizontal_circle_sharp': Ionicons.ellipsis_horizontal_circle_sharp,
   'ellipsis_horizontal_outline': Ionicons.ellipsis_horizontal_outline,
   'ellipsis_horizontal_sharp': Ionicons.ellipsis_horizontal_sharp,

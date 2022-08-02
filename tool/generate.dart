@@ -14,7 +14,7 @@ Future<void> main(List<String> args) async {
 
   var lines = body.split('\n');
 
-  var regex = RegExp(r'IconData (?<icon>\S*) = IoniconsData');
+  var regex = RegExp(r'const (?<icon>\S*) = IoniconsData');
 
   var file = File('lib/ionicons_named.dart');
   var data = '''
