@@ -1,3 +1,8 @@
+## [1.0.1+3] - August 2, 2022
+
+* Automated dependency updates
+
+
 ## [1.0.1+2] - February 6th, 2022
 
 * GH Workflow update
@@ -16,3 +21,4 @@
 ## [1.0.0] - December 2nd, 2021
 
 * Initial release
+
