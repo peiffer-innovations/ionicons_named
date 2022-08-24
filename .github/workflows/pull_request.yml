@@ -15,6 +15,7 @@ jobs:
         with:
           channel: stable
       - run: |
+          flutter pub get
           dart tool/generate.dart
       - name: Validate
         uses: peiffer-innovations/actions-flutter-validate@v1.1.2
