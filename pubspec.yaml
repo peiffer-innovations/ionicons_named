@@ -1,22 +1,22 @@
 name: 'ionicons_named'
 description: 'A mapping library that maps the Stringified ionic icon name to the actual ionicon `IconData`.'
 homepage: 'https://github.com/peiffer-innovations/ionicons_named'
-version: '1.2.0'
+version: '1.2.0+1'
 
-environment:
+environment: 
   sdk: '>=2.17.0 <3.0.0'
 
-dependencies:
-  flutter:
+dependencies: 
+  flutter: 
     sdk: 'flutter'
   ionicons: '^0.2.1'
 
-dev_dependencies:
-  flutter_test:
+dev_dependencies: 
+  flutter_test: 
     sdk: 'flutter'
-  http: '^0.13.4'
+  http: '^0.13.5'
 
-ignore_updates:
+ignore_updates: 
   - 'archive'
   - 'async'
   - 'boolean_selector'
