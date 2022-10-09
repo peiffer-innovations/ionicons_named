@@ -115,7 +115,7 @@ class MaterialIconGalleryHomeState extends State<MaterialIconGalleryHome> {
 
   AppBar _titleBar() {
     return AppBar(
-      title: Text('Material Icons Gallery'),
+      title: Text('Ionicons Gallery'),
       actions: [
         IconButton(
             icon: Icon(Icons.search),
