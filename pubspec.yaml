@@ -1,43 +1,43 @@
-name: "ionicons_named"
-description: "A mapping library that maps the Stringified ionic icon name to the actual ionicon `IconData`."
-homepage: "https://github.com/peiffer-innovations/ionicons_named"
-version: "1.3.0"
+name: 'ionicons_named'
+description: 'A mapping library that maps the Stringified ionic icon name to the actual ionicon `IconData`.'
+homepage: 'https://github.com/peiffer-innovations/ionicons_named'
+version: '1.3.0'
 
 environment:
-  sdk: ">=2.17.0 <3.0.0"
+  sdk: '>=2.18.0 <3.0.0'
 
 dependencies:
   flutter:
-    sdk: "flutter"
-  ionicons: "^0.2.1"
+    sdk: 'flutter'
+  ionicons: '^0.2.1'
 
 dev_dependencies:
   flutter_test:
-    sdk: "flutter"
-  http: "^0.13.5"
+    sdk: 'flutter'
+  http: '^0.13.5'
 
 ignore_updates:
-  - "archive"
-  - "async"
-  - "boolean_selector"
-  - "characters"
-  - "charcode"
-  - "collection"
-  - "clock"
-  - "crypto"
-  - "fake_async"
-  - "file"
-  - "matcher"
-  - "material_color_utilities"
-  - "meta"
-  - "path"
-  - "source_span"
-  - "stack_trace"
-  - "stream_channel"
-  - "string_scanner"
-  - "sync_http"
-  - "term_glyph"
-  - "test_api"
-  - "typed_data"
-  - "vector_math"
-  - "webdriver"
+  - 'archive'
+  - 'async'
+  - 'boolean_selector'
+  - 'characters'
+  - 'charcode'
+  - 'collection'
+  - 'clock'
+  - 'crypto'
+  - 'fake_async'
+  - 'file'
+  - 'matcher'
+  - 'material_color_utilities'
+  - 'meta'
+  - 'path'
+  - 'source_span'
+  - 'stack_trace'
+  - 'stream_channel'
+  - 'string_scanner'
+  - 'sync_http'
+  - 'term_glyph'
+  - 'test_api'
+  - 'typed_data'
+  - 'vector_math'
+  - 'webdriver'
