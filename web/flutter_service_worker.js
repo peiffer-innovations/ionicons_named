@@ -3,10 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
-"index.html": "a225a8992cccd7af89fa2052486100dc",
-"/": "a225a8992cccd7af89fa2052486100dc",
-"main.dart.js": "018e00388eb800c4ccfc3206771d5cf3",
+  "flutter.js": "1cfe996e845b3a8a33f57607e8b09ee4",
+"index.html": "85bfd2f036a3caa44746ae3ce6e272d8",
+"/": "85bfd2f036a3caa44746ae3ce6e272d8",
+"main.dart.js": "2dcead61d4184cfcffe3c6d5ec1c8ca0",
 "manifest.json": "0867c3e13649ac4d06fe34b7b3ddce08",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
@@ -14,15 +14,14 @@ const RESOURCES = {
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "assets/FontManifest.json": "19edf42864e94a1e6c21f637e64974be",
-"assets/NOTICES": "83485edc496bedbae39c2cf73ca8b54d",
-"assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/shaders/ink_sparkle.frag": "28a404c6523bd094ee13ab7bd8e1534e",
+"assets/NOTICES": "826d6a0462d51a1cf67e65fd6cce6313",
+"assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/packages/ionicons/assets/fonts/Ionicons.ttf": "a48ca9e5bcc89fccac32592416234257",
 "assets/AssetManifest.json": "940ce00b9d19044ca24d5e454d350b32",
-"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
-"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
-"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
-"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
+"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
+"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
+"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
+"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
 "version.json": "ff966ab969ba381b900e61629bfb9789"
 };
 
