@@ -1,3 +1,8 @@
+## [1.3.2] - November 15th, 2023
+
+* Standardized analysis rules
+
+
 ## [1.3.1+1] - November 12, 2023
 
 * Automated dependency updates
