@@ -3,19 +3,19 @@ description: 'A new Flutter project.'
 publish_to: 'none'
 version: '1.0.0+3'
 
-environment: 
+environment:
   sdk: '>=3.0.0 <4.0.0'
 
-dependencies: 
-  flutter: 
+dependencies:
+  flutter:
     sdk: 'flutter'
-  ionicons_named: 
+  ionicons_named:
     path: '../'
 
-dev_dependencies: 
-  flutter_lints: '^4.0.0'
-  flutter_test: 
+dev_dependencies:
+  flutter_lints: '^5.0.0'
+  flutter_test:
     sdk: 'flutter'
 
-flutter: 
+flutter:
   uses-material-design: true
